@@ -45,7 +45,7 @@ This project needs [Xlinx ISE](https://en.wikipedia.org/wiki/Xilinx_ISE) and pyt
 ## Building on Ubuntu
 
 1. Download [Full Installer for Linux](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools/v2012_4---14_7.html) from here. See [How to install Xilinx ISE on Ubuntu](https://www.youtube.com/watch?v=meO-b6Ib17Y&ytbChannel=null).
-2. Install Python 3.6 via command : <code>  $ sudo apt-get install python3</code>
+2. Install Python 3.6 via command : <code>  $ sudo apt-get install python3.6 </code>
 
 3. Clone the repository.
 4. Change the directory to MipsAssembler.
