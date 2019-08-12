@@ -53,5 +53,12 @@ This project needs [Xlinx ISE](https://en.wikipedia.org/wiki/Xilinx_ISE) and pyt
 6. Synthesize and simulate the verilog design in src folder to see the results.
 7. That's all !
 
+## Control_Unit FSM
+
+![](ScreenShots/fsm.png)
+
+## Data Path
+
+![](ScreenShots/datapath.png)
 
 
