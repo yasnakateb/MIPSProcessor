@@ -1,9 +1,13 @@
 module MIPS(
+    clock,
+    rst,
+    state
+    );
+    
     input clock,
     input rst,
     output [3:0] state
-    );
-     
+    
     wire sig_Branch;
     wire sig_IntCause;
     wire sig_CauseWrite;
