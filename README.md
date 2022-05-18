@@ -61,4 +61,8 @@ This project needs [Xlinx ISE](https://en.wikipedia.org/wiki/Xilinx_ISE) and pyt
 
 ![](ScreenShots/datapath.png)
 
+### TODO 
+
+ - ⭕ Fix Control Branch
+
 
